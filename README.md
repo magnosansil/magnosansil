@@ -17,6 +17,9 @@ I have a deep understanding of various technologies, including **JavaScript**, *
 ### **Software Engineer at Vasta**
 Currently, I lead **e-commerce** and **mobile app development** projects, specializing in Shopify-based platforms, custom API creation, and process automation. I’ve optimized workflows and performance, enhancing **user engagement** and boosting conversion rates.
 
+### **Contributions to BJJ Fanatics**
+I improved the website's performance by refactoring code and implementing features like custom apps for a seamless **checkout process**. The results were a **70% improvement** in page load time, enhancing user satisfaction and business performance. Check it out: [BJJ Fanatics](https://bjjfanatics.com)
+
 ### **Full-Stack Developer on Various Projects**
 From developing **3D games** using **Three.js** to creating intuitive, highly-converting **landing pages** and **apps**, I consistently focus on delivering smooth and interactive user experiences. I specialize in **mobile app development** with **Ionic** and building robust backends with **Node.js** and **Java**.
 
