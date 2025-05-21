@@ -14,8 +14,11 @@ I have a deep understanding of various technologies, including **JavaScript**, *
 
 ## 🌟 Highlights of My Career
 
+### **Shopify Web Developer at Ioasys**
+Currently, I work directly on building features and maintaining the havaianas.com website aimed at the North American public.
+
 ### **Software Engineer at Vasta**
-Currently, I lead **e-commerce** and **mobile app development** projects, specializing in Shopify-based platforms, custom API creation, and process automation. I’ve optimized workflows and performance, enhancing **user engagement** and boosting conversion rates.
+For almost two years, I led **e-commerce** and **mobile app development** projects, specializing in Shopify-based platforms, custom API creation, and process automation. I’ve optimized workflows and performance, enhancing **user engagement** and boosting conversion rates.
 
 ### **Contributions to BJJ Fanatics**
 I improved the website's performance by refactoring code and implementing features like custom apps for a seamless **checkout process**. The results were a **70% improvement** in page load time, enhancing user satisfaction and business performance. Check it out: [BJJ Fanatics](https://bjjfanatics.com)
