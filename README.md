@@ -15,7 +15,7 @@ I have a deep understanding of various technologies, including **JavaScript**, *
 ## 🌟 Highlights of My Career
 
 ### **Shopify Web Developer at Ioasys**
-Currently, I work directly on building features and maintaining the havaianas.com website aimed at the North American public.
+Currently, I work directly on building features and maintaining the [Havaianas](https://www.havaianas.com) website aimed at the North American public.
 
 ### **Software Engineer at Vasta**
 For almost two years, I led **e-commerce** and **mobile app development** projects, specializing in Shopify-based platforms, custom API creation, and process automation. I’ve optimized workflows and performance, enhancing **user engagement** and boosting conversion rates.
